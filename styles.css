@@ -1,0 +1,18 @@
+header {
+    border: linen 12px solid;
+    font-size: 25px;
+    
+}
+li {
+    display: inline;
+  float: left;
+  }
+a {
+    padding: 0px 6px;
+    background-color: pink;
+}
+footer {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rosybrown;
+}
